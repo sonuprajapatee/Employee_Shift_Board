@@ -1,0 +1,5 @@
+{
+  "name": "Employee Shift Board",
+  "description": "A minimal full-stack application to manage employee shifts with authentication, role-based access, and custom shift validation rules.",
+  "requestFramePermissions": []
+}
